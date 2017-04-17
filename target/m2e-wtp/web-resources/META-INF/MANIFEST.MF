@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Built-By: Felix_Feng
+Build-Jdk: 1.8.0_111
+Class-Path: WEB-INF/lib/xstream-1.4.1.jar WEB-INF/lib/xmlpull-1.1.3.1.
+ jar WEB-INF/lib/xpp3_min-1.1.4c.jar WEB-INF/lib/jstl-1.2.jar WEB-INF/
+ lib/servlet-api-2.5.jar WEB-INF/lib/jsp-api-2.2.jar WEB-INF/lib/commo
+ ns-cli-1.2.jar WEB-INF/lib/commons-beanutils-1.8.3.jar WEB-INF/lib/ja
+ ckson-databind-2.5.0.jar WEB-INF/lib/jackson-annotations-2.5.0.jar WE
+ B-INF/lib/jackson-core-2.5.0.jar WEB-INF/lib/commons-collections-3.2.
+ 1.jar WEB-INF/lib/commons-pool-1.6.jar WEB-INF/lib/commons-dbcp-1.2.2
+ .jar WEB-INF/lib/commons-logging-1.2.jar WEB-INF/lib/commons-fileuplo
+ ad-1.2.2.jar WEB-INF/lib/commons-io-2.0.1.jar WEB-INF/lib/commons-lan
+ g-2.6.jar WEB-INF/lib/commons-compress-1.3.jar WEB-INF/lib/commons-ne
+ t-3.1.jar WEB-INF/lib/json-lib-2.4-jdk15.jar WEB-INF/lib/ezmorph-1.0.
+ 6.jar WEB-INF/lib/aopalliance-1.0.jar WEB-INF/lib/aspectjweaver-1.8.6
+ .jar WEB-INF/lib/aspectjrt-1.8.6.jar WEB-INF/lib/jackson-mapper-asl-1
+ .9.13.jar WEB-INF/lib/jackson-mapper-lgpl-1.9.13.jar WEB-INF/lib/jack
+ son-core-asl-1.9.13.jar WEB-INF/lib/jackson-core-lgpl-1.9.13.jar WEB-
+ INF/lib/jackson-jaxrs-1.9.13.jar WEB-INF/lib/jackson-xc-1.9.13.jar WE
+ B-INF/lib/jackson-mrbean-1.9.13.jar WEB-INF/lib/spring-core-3.2.9.REL
+ EASE.jar WEB-INF/lib/spring-beans-3.2.9.RELEASE.jar WEB-INF/lib/sprin
+ g-expression-3.2.9.RELEASE.jar WEB-INF/lib/spring-web-3.2.9.RELEASE.j
+ ar WEB-INF/lib/spring-webmvc-3.2.9.RELEASE.jar WEB-INF/lib/spring-con
+ text-3.2.9.RELEASE.jar WEB-INF/lib/spring-context-support-3.2.9.RELEA
+ SE.jar WEB-INF/lib/spring-jdbc-3.2.9.RELEASE.jar WEB-INF/lib/spring-t
+ x-3.2.9.RELEASE.jar WEB-INF/lib/spring-aop-3.2.9.RELEASE.jar WEB-INF/
+ lib/spring-orm-3.2.9.RELEASE.jar WEB-INF/lib/spring-test-3.2.9.RELEAS
+ E.jar
+Created-By: Maven Integration for Eclipse
+
